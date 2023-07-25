@@ -18,15 +18,15 @@ We decided to use machine learning and a linear regression model to predict the 
 
 ### OpenFoodFacts
 
-OpenFoodFacts is a website that has a wide variety of food items, as well as all there nutritional information and their Nutriscores. [https://world.openfoodfacts.org](See it!)
+OpenFoodFacts is a website that has a wide variety of food items, as well as all there nutritional information and their Nutriscores. [See it!](https://world.openfoodfacts.org)
 
 ### Nutriscore
 
-A Nutriscore is a score developed by the French Government to assign a value to the healthiness of foods. [https://en.wikipedia.org/wiki/Nutri-Score](Learn more!)
+A Nutriscore is a score developed by the French Government to assign a value to the healthiness of foods. [Learn more!](https://en.wikipedia.org/wiki/Nutri-Score)
  
 ## What is next?
 
 A major drawback with our model is the model was very unsuccesful in predicting the nutriscore of fruits. It would often place fruits as one of the most unhealthy option. We believe this to be the case because we had no way of quantifying the percentage of fruits in our testing data, but in the data from "OpenFoodFacts", this metric was included. We ended up having to scratch the column from our final training set to accomodate for this. We hope to fix this issue sometime in the future by quantifying a percentage of fruit based of of the name of the item (for our testing set).
 
-Want to see more? You can see a detailed report (here)[https://github.com/MrPeterss/healthy-dining/blob/03a2683454b1c563a35f4475d818b734aac0b535/FinalReport.ipynb]
+Want to see more? You can see a detailed report [here](https://github.com/MrPeterss/healthy-dining/blob/03a2683454b1c563a35f4475d818b734aac0b535/FinalReport.ipynb)
 
