@@ -18,11 +18,11 @@ We decided to use machine learning and a linear regression model to predict the 
 
 ### OpenFoodFacts
 
-OpenFoodFacts is a website that has a wide variety of food items, as well as all there nutritional information and their Nutriscores. (See it!)[https://world.openfoodfacts.org]
+OpenFoodFacts is a website that has a wide variety of food items, as well as all there nutritional information and their Nutriscores. [https://world.openfoodfacts.org](See it!)
 
 ### Nutriscore
 
-A Nutriscore is a score developed by the French Government to assign a value to the healthiness of foods. (Learn more!)[https://en.wikipedia.org/wiki/Nutri-Score]
+A Nutriscore is a score developed by the French Government to assign a value to the healthiness of foods. [https://en.wikipedia.org/wiki/Nutri-Score](Learn more!)
  
 ## What is next?
 
